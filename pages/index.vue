@@ -1,0 +1,3 @@
+<div>
+nuxt.js
+</div>
